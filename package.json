@@ -1,6 +1,6 @@
 {
   "name": "oss-starter",
-  "version": "1.1.7",
+  "version": "1.0.1",
   "description": "oss project npm package",
   "main": "index.js",
   "scripts": {
