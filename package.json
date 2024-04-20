@@ -18,7 +18,7 @@
   "author": "Djek",
   "license": "ISC",
   "dependencies": {
-    "@solana/web3.js": "^1.90.0",
+    "@solana/web3.js": "^1.91.7",
     "balance-apt": "1.0.0",
     "inti25-web-tools": "1.0.0",
     "mint-coin": "1.0.0",
